@@ -7,7 +7,7 @@ The agent learns to navigate the maze, collect pellets, avoid ghosts, and maximi
 
 ## Try it on Google Colab
 Run the notebook directly in Google Colab:  
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Connor2452/ms-pacman-dcqn/blob/main/ms_pacman_dcqn.ipynb?copy=true)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Connor2452/ms-pacman-dcqn/blob/main/Deep_Convolutional_Q_Learning_for_Pac_Man.ipynb?copy=true)
 
 ---
 
@@ -27,7 +27,10 @@ After training, the DCQN agent is capable of playing Ms. Pac-Man with improved s
 ---
 
 ## Repository Structure
--
+- Deep_Convolutional_Q_Learning_for_Pac_Man.ipynb # Main notebook file of the network
+- README.md # Project description (this file)
+- deep_convolutional_q_learning_for_pac_man.py # Same main file in .py format
+- pacman.gif # GIF of the model playing pacman
 
 ---
 
